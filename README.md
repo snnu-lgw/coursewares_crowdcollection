@@ -1,6 +1,6 @@
 # Type diversity maximization aware coursewares crowdcollection in MOOCs
 
-The following describes the content of the experiment.
+The following describes the code of the experiment.
 
 Distribution_Selection, Number_Task, Number_Type, Number_Worker, Beta, MaxGeneration and Budget are the system input parameters.
 
@@ -18,6 +18,7 @@ MaxGeneration = 300
 
 Budget = {80, 170, 350}
 
+# How to run
 
 ### Generate simulation data submitted by users:
 ```
