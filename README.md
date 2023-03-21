@@ -2,7 +2,7 @@
 
 The following describes the code of the experiment.
 
-$Distribution_Selection$, $Number_Task$, $Number_Type$, $Number_Worker$, $Beta$, $MaxGeneration$ and $Budget$ are the system input parameters.
+$Distribution\_Selection$, $Number\_Task$, $Number\_Type$, $Number\_Worker$, $Beta$, $MaxGeneration$ and $Budget$ are the system input parameters.
 
 $Distribution_Selection$ = {$U$, $N$, $E$ | $U$, $N$, $E$ are uniform distribution, normal distribution and exponential distribution.}
 
